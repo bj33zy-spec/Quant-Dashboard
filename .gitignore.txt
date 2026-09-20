@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+latest.html
+dashboard_errors.log
+gex_history.json
+archive/
+
+data/raw/
+data/cache/
+
+.DS_Store
+.vscode/
+.idea/
